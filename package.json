@@ -1,0 +1,22 @@
+{
+  "name": "alternative",
+  "version": "0.0.1",
+  "description": "A different look of simple things in JavaScript",
+  "main": "index.js",
+  "repository": "https://github.com/kelin2025/alternative",
+  "author": "Kelin2025 <kelin2025@yandex.ru>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.17.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-node": "^6.0.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "jest": "^22.1.4"
+  }
+}
